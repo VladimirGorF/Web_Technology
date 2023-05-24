@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'beer money';
+    src: url('../fonts/beer_money.eot');
+    /* IE 9 Compatibility Mode */
+    src: url('../fonts/beer_money.eot?#iefix') format('embedded-opentype'),
+        /* IE < 9 */
+        url('../fonts/beer_money.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/beer_money.woff') format('woff'),
+        /* Firefox >= 3.6, any other modern browser */
+        url('../fonts/beer_money.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/beer_money.svg#beer_money') format('svg');
+    /* Chrome < 4, Legacy iOS */
+}
+
+h1 {
+    color: blue;
+    font-family: 'beer money';
+
+}
+
+.second-h1-style {
+    margin-left: 600px;
+}
+
+p {
+    font-family: 'beer money';
+    font-size: 20px;
+}
+
+h3 {
+    color: blueviolet;
+
+}
+
+a {
+    font-family: 'beer money';
+    color: rgb(234, 8, 8);
+}
+
+
+.ul-Style {
+    list-style-type: armenian;
+    color: blue;
+}
+
+.img_style {
+    /* ширина */
+    height: 100px;
+    /* внешний отступ */
+    margin-left: 50px;
+    /* рамка */
+    border: 20px solid chocolate;
+    /* внутренний отступ  */
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+}
+
+/*  :hover псевдокласс срабатывает при наведениии мышкой */
+.chamelion:hover {
+    color: brown;
+}
+
+.chamelion {
+    font-size: 30px;
+}
+
+.h3-font-size {
+    font-size: 22px;
+    margin-left: 200px;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+.firstP-style {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
