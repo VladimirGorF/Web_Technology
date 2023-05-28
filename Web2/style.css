@@ -1,16 +1,16 @@
 @font-face {
     font-family: 'beer money';
-    src: url('../fonts/beer_money.eot');
+    src: url('fonts/beer_money.eot');
     /* IE 9 Compatibility Mode */
-    src: url('../fonts/beer_money.eot?#iefix') format('embedded-opentype'),
+    src: url('fonts/beer_money.eot?#iefix') format('embedded-opentype'),
         /* IE < 9 */
-        url('../fonts/beer_money.woff2') format('woff2'),
+        url('fonts/beer_money.woff2') format('woff2'),
         /* Super Modern Browsers */
-        url('../fonts/beer_money.woff') format('woff'),
+        url('fonts/beer_money.woff') format('woff'),
         /* Firefox >= 3.6, any other modern browser */
-        url('../fonts/beer_money.ttf') format('truetype'),
+        url('fonts/beer_money.ttf') format('truetype'),
         /* Safari, Android, iOS */
-        url('../fonts/beer_money.svg#beer_money') format('svg');
+        url('fonts/beer_money.svg#beer_money') format('svg');
     /* Chrome < 4, Legacy iOS */
 }
 
