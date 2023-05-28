@@ -6,10 +6,10 @@ function greeting(arg) {
     console.log(`Hello, ${arg}!`);
 }
 const name = prompt("Input your name");
-greeting(name);  //  почему зачеркивает не понятно?
+greeting(name);  //  почему в коде зачеркивает name не понятно...
 
 
-// Такой вариант работает без перечеркивания имени.
+// Второй вариант, уйти от переменной name совсем.
 
 // function greeting(arg) {
 //     console.log(`Hello, ${arg}!`);
